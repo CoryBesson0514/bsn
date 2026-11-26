@@ -1,0 +1,6 @@
+node_modules
+.next
+.env*
+.bsn-cache/
+*.[Aa][Rr][Ww]
+*.[Aa][Rr][Ww]_
